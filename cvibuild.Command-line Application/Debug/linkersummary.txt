@@ -1,0 +1,9 @@
+Command-line Application.obj
+nixnet.lib
+cvistart.lib
+cvi.lib
+kernel32.lib
+user32.lib
+EXE Symbol Module
+Exports Module
+Resource Module
